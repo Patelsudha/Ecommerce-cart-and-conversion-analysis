@@ -1,5 +1,5 @@
-
-##E-commerce Cart Abandonment  and conversion optimization Analysis data analyst portfolio project 
+#🛒 E-Commerce Data Analytics Project
+# Cart Abandonment  and conversion optimization Analysis 
 
 
 
