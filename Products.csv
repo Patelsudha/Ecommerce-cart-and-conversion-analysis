@@ -1,0 +1,301 @@
+Product_ID,Product_Name,Category,Sub_Category,Brand,Price,Cost,Stock
+P10001,FitMax Audio Item 1,Electronics,Laptops,Nova,59620,39248.59,401
+P10002,UrbanKart Staples Item 2,Grocery,Beverages,FitMax,2459,1911.52,405
+P10003,UrbanKart Kitchen Item 3,Home & Kitchen,Appliances,PrimeHome,8439,5929.83,399
+P10004,Zenith Footwear Item 4,Fashion,Footwear,DailyBuy,4027,3077.25,235
+P10005,DailyBuy Fitness Item 5,Sports,Fitness,TechPro,8334,4443.06,387
+P10006,DailyBuy Fragrance Item 6,Beauty,Fragrance,Vistara,2708,1571.31,474
+P10007,FitMax Equipment Item 7,Sports,Outdoor,PrimeHome,12557,8910.74,237
+P10008,StyleHub Beverages Item 8,Grocery,Household,DailyBuy,1464,905.9,433
+P10009,Zenith Footwear Item 9,Fashion,Footwear,UrbanKart,3303,1915.96,136
+P10010,Nova Makeup Item 10,Beauty,Skincare,DailyBuy,5346,3925.5,169
+P10011,StyleHub Men Item 11,Fashion,Kids,DailyBuy,5109,2851.33,455
+P10012,TechPro Home Decor Item 12,Home & Kitchen,Kitchen,FitMax,6050,4362.18,14
+P10013,TechPro Furniture Item 13,Home & Kitchen,Home Decor,Vistara,21186,12092.0,286
+P10014,Vistara Beverages Item 14,Grocery,Beverages,TechPro,1140,671.82,255
+P10015,TechPro Laptops Item 15,Electronics,Smartphones,PrimeHome,11273,6404.53,433
+P10016,Zenith Kitchen Item 16,Home & Kitchen,Home Decor,TechPro,29684,19540.47,128
+P10017,Nova Footwear Item 17,Fashion,Kids,DailyBuy,5562,2936.56,435
+P10018,FitMax Men Item 18,Fashion,Women,DailyBuy,9581,5047.77,418
+P10019,Nova Staples Item 19,Grocery,Household,Zenith,1375,924.9,271
+P10020,PrimeHome Audio Item 20,Electronics,Laptops,FitMax,24782,15381.22,5
+P10021,Apex Women Item 21,Fashion,Men,StyleHub,1105,826.21,498
+P10022,DailyBuy Smartphones Item 22,Electronics,Audio,UrbanKart,63437,46017.35,398
+P10023,Nova Kids Item 23,Fashion,Women,DailyBuy,7904,4640.7,459
+P10024,DailyBuy Men Item 24,Fashion,Men,Vistara,2013,1231.69,125
+P10025,UrbanKart Home Decor Item 25,Home & Kitchen,Appliances,FitMax,20042,11076.55,209
+P10026,Vistara Appliances Item 26,Home & Kitchen,Furniture,UrbanKart,16626,9676.0,411
+P10027,PrimeHome Kids Item 27,Fashion,Kids,TechPro,7408,4535.44,88
+P10028,Nova Footwear Item 28,Fashion,Kids,DailyBuy,5932,3311.67,317
+P10029,FitMax Accessories Item 29,Electronics,Accessories,PrimeHome,33318,25283.28,486
+P10030,Apex Kitchen Item 30,Home & Kitchen,Appliances,TechPro,9973,7238.98,42
+P10031,StyleHub Women Item 31,Fashion,Kids,TechPro,7685,4018.41,363
+P10032,DailyBuy Smartphones Item 32,Electronics,Accessories,DailyBuy,1783,1149.52,121
+P10033,Apex Accessories Item 33,Electronics,Audio,TechPro,22331,13681.85,245
+P10034,Vistara Kids Item 34,Fashion,Women,UrbanKart,4761,3270.38,150
+P10035,UrbanKart Home Decor Item 35,Home & Kitchen,Kitchen,FitMax,15880,9770.01,139
+P10036,FitMax Laptops Item 36,Electronics,Audio,PrimeHome,55094,40455.54,94
+P10037,Apex Footwear Item 37,Fashion,Men,StyleHub,3901,2527.67,218
+P10038,UrbanKart Laptops Item 38,Electronics,Audio,DailyBuy,3461,2654.94,195
+P10039,UrbanKart Outdoor Item 39,Sports,Fitness,FitMax,5709,3603.27,262
+P10040,Vistara Home Decor Item 40,Home & Kitchen,Furniture,Vistara,22035,16539.3,74
+P10041,Nova Women Item 41,Fashion,Footwear,Nova,6442,3659.95,157
+P10042,Nova Smartphones Item 42,Electronics,Smartphones,UrbanKart,8220,6349.45,141
+P10043,Vistara Staples Item 43,Grocery,Staples,DailyBuy,1883,1280.93,409
+P10044,DailyBuy Laptops Item 44,Electronics,Accessories,Zenith,49345,36903.93,13
+P10045,DailyBuy Outdoor Item 45,Sports,Equipment,DailyBuy,10136,7547.37,23
+P10046,FitMax Men Item 46,Fashion,Women,StyleHub,6966,5023.33,121
+P10047,StyleHub Audio Item 47,Electronics,Smartphones,PrimeHome,61871,39284.85,327
+P10048,DailyBuy Appliances Item 48,Home & Kitchen,Kitchen,StyleHub,10082,5617.48,391
+P10049,PrimeHome Home Decor Item 49,Home & Kitchen,Furniture,DailyBuy,23453,16779.94,288
+P10050,TechPro Outdoor Item 50,Sports,Fitness,PrimeHome,8438,5513.43,117
+P10051,Nova Snacks Item 51,Grocery,Beverages,Apex,201,105.03,339
+P10052,Apex Footwear Item 52,Fashion,Women,FitMax,3236,2324.09,106
+P10053,UrbanKart Furniture Item 53,Home & Kitchen,Appliances,UrbanKart,6492,4790.14,437
+P10054,Nova Staples Item 54,Grocery,Snacks,Apex,231,167.07,299
+P10055,Zenith Makeup Item 55,Beauty,Fragrance,PrimeHome,1514,1082.05,73
+P10056,StyleHub Footwear Item 56,Fashion,Footwear,Nova,4152,2410.64,475
+P10057,DailyBuy Smartphones Item 57,Electronics,Audio,Apex,3407,1991.41,20
+P10058,TechPro Kids Item 58,Fashion,Women,FitMax,2769,1771.56,145
+P10059,Nova Snacks Item 59,Grocery,Staples,Apex,281,149.03,477
+P10060,Apex Women Item 60,Fashion,Kids,Vistara,5247,2849.56,431
+P10061,DailyBuy Women Item 61,Fashion,Men,PrimeHome,6549,4234.25,166
+P10062,TechPro Staples Item 62,Grocery,Staples,Vistara,3742,2211.37,453
+P10063,UrbanKart Smartphones Item 63,Electronics,Smartphones,Zenith,19918,12590.22,327
+P10064,Nova Appliances Item 64,Home & Kitchen,Kitchen,Zenith,7246,5088.4,177
+P10065,StyleHub Staples Item 65,Grocery,Household,StyleHub,3554,2097.11,461
+P10066,FitMax Footwear Item 66,Fashion,Footwear,Zenith,3823,2537.87,25
+P10067,Vistara Women Item 67,Fashion,Women,StyleHub,2119,1108.48,33
+P10068,FitMax Haircare Item 68,Beauty,Makeup,DailyBuy,841,623.97,343
+P10069,StyleHub Appliances Item 69,Home & Kitchen,Furniture,DailyBuy,15591,10193.15,381
+P10070,Nova Haircare Item 70,Beauty,Makeup,StyleHub,2321,1233.32,426
+P10071,StyleHub Accessories Item 71,Electronics,Accessories,TechPro,66043,44363.13,412
+P10072,FitMax Smartphones Item 72,Electronics,Laptops,DailyBuy,30444,20638.98,479
+P10073,FitMax Kitchen Item 73,Home & Kitchen,Appliances,PrimeHome,6709,5226.32,88
+P10074,Nova Men Item 74,Fashion,Men,TechPro,7946,5564.84,68
+P10075,DailyBuy Beverages Item 75,Grocery,Beverages,Zenith,2665,1597.46,303
+P10076,TechPro Home Decor Item 76,Home & Kitchen,Kitchen,Zenith,5696,3112.1,280
+P10077,FitMax Furniture Item 77,Home & Kitchen,Furniture,PrimeHome,13761,7418.98,216
+P10078,FitMax Sportswear Item 78,Sports,Fitness,Apex,2463,1414.05,287
+P10079,Nova Laptops Item 79,Electronics,Accessories,FitMax,61135,43823.72,125
+P10080,PrimeHome Audio Item 80,Electronics,Accessories,FitMax,21455,12114.76,396
+P10081,Zenith Home Decor Item 81,Home & Kitchen,Kitchen,DailyBuy,4763,2816.9,179
+P10082,UrbanKart Accessories Item 82,Electronics,Smartphones,DailyBuy,47700,33642.14,111
+P10083,TechPro Home Decor Item 83,Home & Kitchen,Appliances,Apex,8198,4446.32,119
+P10084,Vistara Equipment Item 84,Sports,Equipment,PrimeHome,5330,2842.99,292
+P10085,StyleHub Snacks Item 85,Grocery,Beverages,UrbanKart,1989,1381.25,292
+P10086,DailyBuy Home Decor Item 86,Home & Kitchen,Kitchen,FitMax,16998,12423.12,329
+P10087,Zenith Staples Item 87,Grocery,Snacks,FitMax,3581,2362.63,154
+P10088,PrimeHome Laptops Item 88,Electronics,Laptops,PrimeHome,28130,21646.92,470
+P10089,DailyBuy Fragrance Item 89,Beauty,Fragrance,PrimeHome,5663,3534.98,7
+P10090,TechPro Women Item 90,Fashion,Footwear,PrimeHome,7588,4498.47,96
+P10091,Apex Kids Item 91,Fashion,Men,UrbanKart,8871,6703.6,88
+P10092,Vistara Accessories Item 92,Electronics,Accessories,PrimeHome,64365,33832.13,79
+P10093,Zenith Staples Item 93,Grocery,Household,StyleHub,3481,1818.59,413
+P10094,Nova Snacks Item 94,Grocery,Household,PrimeHome,3800,2327.35,66
+P10095,TechPro Kitchen Item 95,Home & Kitchen,Home Decor,StyleHub,5142,3088.55,143
+P10096,Nova Smartphones Item 96,Electronics,Audio,DailyBuy,22742,15269.86,76
+P10097,Nova Kids Item 97,Fashion,Men,StyleHub,9087,4849.76,358
+P10098,TechPro Outdoor Item 98,Sports,Fitness,Apex,2458,1640.7,348
+P10099,Apex Furniture Item 99,Home & Kitchen,Furniture,Zenith,12825,8888.83,414
+P10100,StyleHub Furniture Item 100,Home & Kitchen,Appliances,Apex,22483,16903.72,186
+P10101,StyleHub Fitness Item 101,Sports,Sportswear,UrbanKart,12746,6696.14,23
+P10102,StyleHub Fragrance Item 102,Beauty,Haircare,FitMax,1713,1304.26,71
+P10103,TechPro Kitchen Item 103,Home & Kitchen,Furniture,DailyBuy,24644,14282.92,86
+P10104,DailyBuy Footwear Item 104,Fashion,Women,FitMax,5812,4517.78,414
+P10105,Zenith Kids Item 105,Fashion,Footwear,TechPro,9875,6870.26,346
+P10106,Nova Home Decor Item 106,Home & Kitchen,Home Decor,DailyBuy,3396,2604.41,233
+P10107,StyleHub Men Item 107,Fashion,Men,Apex,6047,3588.8,212
+P10108,StyleHub Fragrance Item 108,Beauty,Fragrance,Vistara,4124,2828.95,475
+P10109,Zenith Footwear Item 109,Fashion,Women,UrbanKart,9721,6690.28,255
+P10110,DailyBuy Audio Item 110,Electronics,Audio,StyleHub,23464,16729.04,487
+P10111,Zenith Fragrance Item 111,Beauty,Skincare,UrbanKart,840,508.05,87
+P10112,UrbanKart Laptops Item 112,Electronics,Audio,FitMax,35103,24960.42,455
+P10113,DailyBuy Snacks Item 113,Grocery,Household,Nova,1248,771.21,152
+P10114,UrbanKart Footwear Item 114,Fashion,Men,Apex,3443,2348.43,200
+P10115,TechPro Appliances Item 115,Home & Kitchen,Home Decor,TechPro,10668,7010.79,99
+P10116,Nova Men Item 116,Fashion,Footwear,TechPro,7704,5390.51,479
+P10117,UrbanKart Men Item 117,Fashion,Kids,TechPro,6826,4686.53,117
+P10118,DailyBuy Men Item 118,Fashion,Kids,StyleHub,778,546.17,316
+P10119,FitMax Equipment Item 119,Sports,Equipment,Nova,3523,2590.41,127
+P10120,FitMax Kids Item 120,Fashion,Kids,Nova,6871,5090.3,55
+P10121,Apex Beverages Item 121,Grocery,Staples,Apex,3072,2175.95,104
+P10122,Vistara Smartphones Item 122,Electronics,Audio,StyleHub,15525,11853.49,245
+P10123,Apex Accessories Item 123,Electronics,Accessories,Zenith,13321,7090.49,300
+P10124,Vistara Household Item 124,Grocery,Household,Nova,3200,2461.55,140
+P10125,PrimeHome Haircare Item 125,Beauty,Haircare,Nova,810,501.25,114
+P10126,DailyBuy Haircare Item 126,Beauty,Haircare,Apex,2344,1625.06,286
+P10127,TechPro Women Item 127,Fashion,Footwear,Apex,8539,5168.04,53
+P10128,Nova Accessories Item 128,Electronics,Accessories,PrimeHome,41039,31852.39,283
+P10129,TechPro Haircare Item 129,Beauty,Fragrance,Nova,479,371.85,195
+P10130,DailyBuy Household Item 130,Grocery,Staples,Zenith,776,487.13,284
+P10131,UrbanKart Laptops Item 131,Electronics,Laptops,TechPro,17602,13555.92,244
+P10132,FitMax Equipment Item 132,Sports,Sportswear,DailyBuy,6369,3407.98,341
+P10133,DailyBuy Kids Item 133,Fashion,Footwear,PrimeHome,8047,4254.17,95
+P10134,Nova Fragrance Item 134,Beauty,Makeup,UrbanKart,1548,1032.95,236
+P10135,DailyBuy Accessories Item 135,Electronics,Accessories,StyleHub,49087,26034.8,375
+P10136,TechPro Women Item 136,Fashion,Women,StyleHub,5090,3231.92,400
+P10137,FitMax Laptops Item 137,Electronics,Accessories,TechPro,19557,10748.7,397
+P10138,PrimeHome Accessories Item 138,Electronics,Audio,Zenith,56677,40618.95,30
+P10139,UrbanKart Equipment Item 139,Sports,Outdoor,StyleHub,848,614.49,108
+P10140,Nova Appliances Item 140,Home & Kitchen,Furniture,FitMax,24307,15572.5,240
+P10141,Zenith Kitchen Item 141,Home & Kitchen,Home Decor,UrbanKart,8126,5924.94,232
+P10142,Zenith Laptops Item 142,Electronics,Accessories,Zenith,68955,39692.83,154
+P10143,TechPro Fitness Item 143,Sports,Equipment,Apex,11876,8893.28,349
+P10144,Zenith Haircare Item 144,Beauty,Makeup,Nova,1810,1018.16,108
+P10145,TechPro Household Item 145,Grocery,Beverages,Zenith,872,606.55,6
+P10146,DailyBuy Audio Item 146,Electronics,Audio,TechPro,13773,10462.06,89
+P10147,DailyBuy Men Item 147,Fashion,Women,FitMax,2573,1365.43,285
+P10148,Vistara Outdoor Item 148,Sports,Outdoor,Apex,11870,6486.2,3
+P10149,Apex Kids Item 149,Fashion,Footwear,UrbanKart,9529,5928.93,3
+P10150,FitMax Household Item 150,Grocery,Staples,FitMax,251,139.85,257
+P10151,FitMax Kids Item 151,Fashion,Men,TechPro,3881,2822.56,213
+P10152,Vistara Makeup Item 152,Beauty,Fragrance,PrimeHome,5488,3309.39,197
+P10153,UrbanKart Beverages Item 153,Grocery,Beverages,Nova,1705,1045.99,193
+P10154,PrimeHome Kitchen Item 154,Home & Kitchen,Kitchen,UrbanKart,19267,15018.89,147
+P10155,DailyBuy Appliances Item 155,Home & Kitchen,Kitchen,Nova,16320,8969.89,494
+P10156,Vistara Kids Item 156,Fashion,Footwear,PrimeHome,1637,916.11,404
+P10157,StyleHub Accessories Item 157,Electronics,Audio,TechPro,25547,19576.56,305
+P10158,Apex Women Item 158,Fashion,Women,Apex,2992,1787.19,340
+P10159,DailyBuy Haircare Item 159,Beauty,Skincare,UrbanKart,2037,1111.1,363
+P10160,Nova Staples Item 160,Grocery,Snacks,DailyBuy,2602,1698.27,244
+P10161,TechPro Men Item 161,Fashion,Men,TechPro,642,377.78,468
+P10162,DailyBuy Fragrance Item 162,Beauty,Makeup,UrbanKart,1909,1328.04,166
+P10163,FitMax Snacks Item 163,Grocery,Staples,DailyBuy,993,694.32,270
+P10164,DailyBuy Men Item 164,Fashion,Kids,Nova,1457,948.54,169
+P10165,TechPro Household Item 165,Grocery,Household,Apex,3733,2768.55,186
+P10166,FitMax Equipment Item 166,Sports,Sportswear,Zenith,2850,1684.41,57
+P10167,PrimeHome Laptops Item 167,Electronics,Audio,Vistara,19753,15401.71,286
+P10168,Vistara Laptops Item 168,Electronics,Audio,TechPro,19244,10755.21,203
+P10169,FitMax Audio Item 169,Electronics,Smartphones,UrbanKart,3804,2836.87,61
+P10170,Nova Staples Item 170,Grocery,Staples,Vistara,1224,694.2,420
+P10171,Nova Audio Item 171,Electronics,Smartphones,Vistara,8740,5130.1,287
+P10172,TechPro Home Decor Item 172,Home & Kitchen,Kitchen,Vistara,4493,2743.95,187
+P10173,StyleHub Kids Item 173,Fashion,Women,FitMax,5988,3980.65,277
+P10174,Vistara Snacks Item 174,Grocery,Staples,UrbanKart,3339,2259.98,158
+P10175,TechPro Staples Item 175,Grocery,Snacks,FitMax,2611,1496.48,84
+P10176,StyleHub Sportswear Item 176,Sports,Outdoor,FitMax,6980,4532.13,67
+P10177,Apex Kids Item 177,Fashion,Men,TechPro,7179,4294.95,361
+P10178,Apex Kids Item 178,Fashion,Footwear,PrimeHome,1278,832.47,397
+P10179,DailyBuy Accessories Item 179,Electronics,Smartphones,Zenith,38788,21658.7,326
+P10180,UrbanKart Kids Item 180,Fashion,Footwear,FitMax,5318,3704.39,156
+P10181,Zenith Makeup Item 181,Beauty,Haircare,StyleHub,3031,1585.49,149
+P10182,Vistara Equipment Item 182,Sports,Sportswear,Zenith,7588,5180.35,55
+P10183,UrbanKart Beverages Item 183,Grocery,Staples,Apex,1477,1130.4,45
+P10184,TechPro Smartphones Item 184,Electronics,Smartphones,StyleHub,45438,26626.58,38
+P10185,FitMax Beverages Item 185,Grocery,Household,FitMax,1404,1040.82,498
+P10186,FitMax Audio Item 186,Electronics,Laptops,PrimeHome,47740,30071.34,52
+P10187,StyleHub Audio Item 187,Electronics,Laptops,StyleHub,21453,15652.9,121
+P10188,Vistara Snacks Item 188,Grocery,Beverages,TechPro,1125,605.0,451
+P10189,Zenith Outdoor Item 189,Sports,Sportswear,Nova,9580,7439.6,150
+P10190,StyleHub Audio Item 190,Electronics,Laptops,FitMax,36819,20149.38,371
+P10191,Apex Beverages Item 191,Grocery,Household,Vistara,3889,2670.53,270
+P10192,TechPro Household Item 192,Grocery,Beverages,Apex,897,502.88,45
+P10193,StyleHub Audio Item 193,Electronics,Accessories,Zenith,49892,32028.99,98
+P10194,DailyBuy Footwear Item 194,Fashion,Women,StyleHub,9552,5893.76,335
+P10195,DailyBuy Appliances Item 195,Home & Kitchen,Kitchen,StyleHub,7539,5346.62,247
+P10196,PrimeHome Household Item 196,Grocery,Beverages,Vistara,659,488.2,341
+P10197,Vistara Footwear Item 197,Fashion,Men,Zenith,9663,6464.22,297
+P10198,Nova Audio Item 198,Electronics,Audio,PrimeHome,32876,23438.24,179
+P10199,Zenith Furniture Item 199,Home & Kitchen,Furniture,UrbanKart,22784,17284.35,420
+P10200,Apex Appliances Item 200,Home & Kitchen,Kitchen,Nova,2965,2065.76,410
+P10201,PrimeHome Makeup Item 201,Beauty,Makeup,Nova,1168,898.71,172
+P10202,DailyBuy Accessories Item 202,Electronics,Audio,DailyBuy,36183,20924.16,327
+P10203,TechPro Beverages Item 203,Grocery,Snacks,Vistara,1532,987.74,307
+P10204,PrimeHome Furniture Item 204,Home & Kitchen,Home Decor,Zenith,29027,15561.91,22
+P10205,TechPro Staples Item 205,Grocery,Staples,DailyBuy,2967,1938.06,209
+P10206,UrbanKart Sportswear Item 206,Sports,Sportswear,Zenith,5268,3248.49,393
+P10207,StyleHub Staples Item 207,Grocery,Snacks,TechPro,176,95.69,454
+P10208,UrbanKart Outdoor Item 208,Sports,Fitness,Zenith,9679,5536.57,242
+P10209,TechPro Fitness Item 209,Sports,Sportswear,Zenith,5849,4391.18,164
+P10210,PrimeHome Furniture Item 210,Home & Kitchen,Home Decor,PrimeHome,12116,8357.65,215
+P10211,Vistara Home Decor Item 211,Home & Kitchen,Furniture,Zenith,3579,2686.65,165
+P10212,Nova Appliances Item 212,Home & Kitchen,Home Decor,Vistara,5453,4048.83,369
+P10213,TechPro Appliances Item 213,Home & Kitchen,Furniture,Nova,9621,5332.56,366
+P10214,Apex Smartphones Item 214,Electronics,Audio,StyleHub,29722,18648.85,455
+P10215,Vistara Footwear Item 215,Fashion,Kids,FitMax,2133,1449.01,467
+P10216,UrbanKart Smartphones Item 216,Electronics,Accessories,PrimeHome,26876,16855.26,83
+P10217,Vistara Men Item 217,Fashion,Footwear,DailyBuy,2763,1694.32,282
+P10218,Nova Audio Item 218,Electronics,Accessories,Apex,46613,31735.95,14
+P10219,StyleHub Equipment Item 219,Sports,Fitness,StyleHub,10171,5453.76,234
+P10220,Nova Haircare Item 220,Beauty,Makeup,Vistara,4583,2718.39,92
+P10221,TechPro Smartphones Item 221,Electronics,Laptops,UrbanKart,31726,18312.58,214
+P10222,DailyBuy Appliances Item 222,Home & Kitchen,Home Decor,PrimeHome,5863,3845.53,290
+P10223,Apex Smartphones Item 223,Electronics,Audio,Apex,38523,24402.87,376
+P10224,FitMax Beverages Item 224,Grocery,Household,DailyBuy,1817,1295.8,450
+P10225,Nova Footwear Item 225,Fashion,Men,FitMax,3616,2332.12,414
+P10226,UrbanKart Footwear Item 226,Fashion,Men,Zenith,4873,3317.69,48
+P10227,PrimeHome Beverages Item 227,Grocery,Snacks,UrbanKart,3471,2208.54,203
+P10228,Zenith Haircare Item 228,Beauty,Skincare,Zenith,5785,4065.12,210
+P10229,FitMax Beverages Item 229,Grocery,Snacks,TechPro,893,631.69,33
+P10230,StyleHub Footwear Item 230,Fashion,Women,TechPro,4503,3004.28,25
+P10231,Vistara Women Item 231,Fashion,Women,StyleHub,2132,1580.47,211
+P10232,PrimeHome Makeup Item 232,Beauty,Fragrance,Vistara,769,438.83,334
+P10233,Vistara Audio Item 233,Electronics,Laptops,UrbanKart,1746,1303.96,124
+P10234,TechPro Audio Item 234,Electronics,Accessories,Apex,36971,27562.66,154
+P10235,UrbanKart Smartphones Item 235,Electronics,Laptops,TechPro,68950,50389.39,262
+P10236,Vistara Staples Item 236,Grocery,Beverages,Nova,854,611.4,255
+P10237,UrbanKart Appliances Item 237,Home & Kitchen,Kitchen,StyleHub,28041,16331.32,232
+P10238,Apex Smartphones Item 238,Electronics,Laptops,DailyBuy,31827,19106.85,136
+P10239,DailyBuy Footwear Item 239,Fashion,Men,Zenith,1018,609.01,330
+P10240,Nova Outdoor Item 240,Sports,Outdoor,Vistara,12093,7882.85,152
+P10241,DailyBuy Accessories Item 241,Electronics,Accessories,PrimeHome,1644,984.23,73
+P10242,PrimeHome Skincare Item 242,Beauty,Skincare,Apex,1757,1230.79,113
+P10243,FitMax Fragrance Item 243,Beauty,Skincare,Nova,3426,2508.92,340
+P10244,Apex Kitchen Item 244,Home & Kitchen,Furniture,StyleHub,22780,13006.79,93
+P10245,PrimeHome Kids Item 245,Fashion,Footwear,DailyBuy,5485,3753.06,162
+P10246,DailyBuy Equipment Item 246,Sports,Sportswear,UrbanKart,12255,8674.13,346
+P10247,DailyBuy Footwear Item 247,Fashion,Kids,PrimeHome,5626,3385.81,413
+P10248,FitMax Kids Item 248,Fashion,Women,StyleHub,7477,5791.69,116
+P10249,Vistara Footwear Item 249,Fashion,Footwear,UrbanKart,8991,5130.06,360
+P10250,StyleHub Men Item 250,Fashion,Footwear,Nova,3881,2347.37,430
+P10251,Vistara Audio Item 251,Electronics,Audio,TechPro,22462,11904.7,97
+P10252,FitMax Sportswear Item 252,Sports,Fitness,Nova,12430,8332.71,358
+P10253,UrbanKart Laptops Item 253,Electronics,Smartphones,Zenith,843,526.49,257
+P10254,TechPro Staples Item 254,Grocery,Beverages,DailyBuy,3521,2178.11,104
+P10255,TechPro Footwear Item 255,Fashion,Footwear,Nova,9514,5100.94,20
+P10256,Apex Women Item 256,Fashion,Footwear,DailyBuy,3768,2771.04,284
+P10257,PrimeHome Laptops Item 257,Electronics,Accessories,Apex,988,536.3,440
+P10258,UrbanKart Fragrance Item 258,Beauty,Skincare,Zenith,5885,4538.6,126
+P10259,FitMax Furniture Item 259,Home & Kitchen,Home Decor,Zenith,23155,17448.81,232
+P10260,Zenith Snacks Item 260,Grocery,Household,UrbanKart,3589,2211.57,340
+P10261,TechPro Appliances Item 261,Home & Kitchen,Furniture,StyleHub,10937,8376.17,435
+P10262,PrimeHome Skincare Item 262,Beauty,Fragrance,DailyBuy,2779,1969.59,102
+P10263,TechPro Smartphones Item 263,Electronics,Smartphones,Zenith,56908,38354.98,413
+P10264,UrbanKart Equipment Item 264,Sports,Equipment,PrimeHome,9463,6731.14,257
+P10265,DailyBuy Equipment Item 265,Sports,Sportswear,StyleHub,9033,6070.38,226
+P10266,UrbanKart Women Item 266,Fashion,Women,PrimeHome,4990,3619.71,22
+P10267,Nova Smartphones Item 267,Electronics,Smartphones,UrbanKart,60767,43188.99,198
+P10268,UrbanKart Kitchen Item 268,Home & Kitchen,Kitchen,TechPro,4912,2724.22,270
+P10269,DailyBuy Household Item 269,Grocery,Household,UrbanKart,940,703.74,374
+P10270,StyleHub Skincare Item 270,Beauty,Haircare,FitMax,996,636.03,231
+P10271,Zenith Women Item 271,Fashion,Women,PrimeHome,7548,5673.16,486
+P10272,Nova Staples Item 272,Grocery,Household,FitMax,2807,1874.84,289
+P10273,UrbanKart Laptops Item 273,Electronics,Audio,Zenith,48027,33244.33,51
+P10274,StyleHub Footwear Item 274,Fashion,Footwear,UrbanKart,8692,5018.43,367
+P10275,DailyBuy Accessories Item 275,Electronics,Accessories,Nova,23193,17875.58,247
+P10276,DailyBuy Audio Item 276,Electronics,Laptops,Apex,13124,7781.19,269
+P10277,StyleHub Fitness Item 277,Sports,Outdoor,Zenith,3998,2912.65,131
+P10278,UrbanKart Skincare Item 278,Beauty,Haircare,TechPro,771,402.83,430
+P10279,PrimeHome Snacks Item 279,Grocery,Household,TechPro,2276,1649.23,86
+P10280,FitMax Makeup Item 280,Beauty,Fragrance,TechPro,2303,1356.82,171
+P10281,FitMax Staples Item 281,Grocery,Beverages,Vistara,3253,2264.87,200
+P10282,PrimeHome Fragrance Item 282,Beauty,Haircare,TechPro,3313,2240.18,32
+P10283,StyleHub Accessories Item 283,Electronics,Accessories,UrbanKart,33348,23060.2,220
+P10284,FitMax Household Item 284,Grocery,Household,StyleHub,1898,1058.59,329
+P10285,TechPro Accessories Item 285,Electronics,Laptops,PrimeHome,56690,39870.19,243
+P10286,Zenith Haircare Item 286,Beauty,Haircare,Nova,4249,3140.86,148
+P10287,PrimeHome Makeup Item 287,Beauty,Makeup,DailyBuy,409,292.05,182
+P10288,UrbanKart Laptops Item 288,Electronics,Smartphones,FitMax,61529,36961.24,333
+P10289,Vistara Accessories Item 289,Electronics,Audio,PrimeHome,13420,8244.67,169
+P10290,Vistara Staples Item 290,Grocery,Staples,DailyBuy,2169,1222.51,21
+P10291,TechPro Women Item 291,Fashion,Women,PrimeHome,5219,3450.45,305
+P10292,Zenith Kids Item 292,Fashion,Women,Vistara,8378,5862.46,186
+P10293,Nova Makeup Item 293,Beauty,Skincare,Nova,3905,2327.97,233
+P10294,StyleHub Women Item 294,Fashion,Kids,Apex,5617,4032.22,347
+P10295,PrimeHome Snacks Item 295,Grocery,Staples,PrimeHome,3907,2124.83,401
+P10296,PrimeHome Staples Item 296,Grocery,Beverages,TechPro,3213,1902.94,352
+P10297,Vistara Smartphones Item 297,Electronics,Audio,Nova,26848,19890.05,258
+P10298,Apex Appliances Item 298,Home & Kitchen,Kitchen,StyleHub,28854,21164.5,61
+P10299,Zenith Kids Item 299,Fashion,Kids,TechPro,4035,2703.81,456
+P10300,FitMax Appliances Item 300,Home & Kitchen,Kitchen,PrimeHome,10568,7818.24,437
