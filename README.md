@@ -237,11 +237,11 @@ The analysis was used to identify important business patterns and convert them i
 
 Examples of insights include:
 
-### 📱 Mobile Abandonment
+### 📱 tablet Abandonment
 
-If mobile users show a higher abandonment rate than desktop users:
+If tablet users show a higher abandonment rate than mobile and desktop users:
 
-**Recommendation:** Improve the mobile shopping and checkout experience.
+**Recommendation:** Improve the tablet shopping and checkout experience.
 
 ### 💳 Payment Failures
 
